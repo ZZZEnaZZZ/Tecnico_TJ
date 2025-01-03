@@ -89,3 +89,7 @@
 [22:50:17] [Server thread/WARN]: handleDisconnection() called twice
 [22:50:23] [Server thread/INFO]: ZZ_Ena_ZZ[/127.220.225.175:52835] logged in with entity id 13279 at (580.5, 68.0, 285.5)
 [22:50:23] [Server thread/INFO]: ZZ_Ena_ZZ joined the game
+[23:06:25] [Server thread/INFO]: DermiCraft lost connection: Disconnected
+[23:06:25] [Server thread/INFO]: DermiCraft left the game
+[23:07:10] [Server thread/INFO]: ZZ_Ena_ZZ lost connection: Disconnected
+[23:07:10] [Server thread/INFO]: ZZ_Ena_ZZ left the game
